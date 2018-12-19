@@ -1,0 +1,25 @@
+{
+  "name": "json-curlopt",
+  "version": "1.0.0",
+  "description": "PHP CURLOPT* constants values in JSON struct",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaino78/json-curlopt.git"
+  },
+  "keywords": [
+    "php",
+    "curl",
+    "curlopt",
+    "json"
+  ],
+  "author": "Ivan Danilov <vaino78@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaino78/json-curlopt/issues"
+  },
+  "homepage": "https://github.com/vaino78/json-curlopt#readme"
+}
